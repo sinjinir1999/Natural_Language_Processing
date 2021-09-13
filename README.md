@@ -1,2 +1,3 @@
 # Natural Language Processing
-![](https://tenor.com/view/natural-language-processing-linguistics-nlp-gif-16852905)
+![tenor](https://user-images.githubusercontent.com/67474818/133130598-d262477a-3e83-477a-a6ea-a9fa9d08e02b.gif)
+
